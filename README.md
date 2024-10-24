@@ -1,15 +1,20 @@
 # Hotel-Data-Analytics
 
-Conducted comprehensive analysis of hotel occupancy and revenue data to identify patterns and support strategic decisions.
+## Overview
+This project involves a comprehensive analysis of hotel occupancy and revenue data to identify patterns and support strategic decision-making. The analysis includes calculations of average occupancy rates, revenue metrics, and visualizations that drive insights into guest behavior and marketing strategies.
 
-Calculated average occupancy rates across various room categories and cities, and analyzed trends between weekdays and weekends, driving insights into guest behavior.
+## Key Features
+- Conducted analysis of hotel occupancy and revenue data to identify patterns.
+- Calculated average occupancy rates across various room categories and cities.
+- Analyzed trends between weekdays and weekends to understand guest behavior.
+- Determined city-specific occupancy rates during peak travel months (e.g., June).
+- Computed revenue metrics per city and hotel type, tracking performance across regions and market segments.
+- Visualized revenue distribution across various booking platforms using pie charts.
+- Integrated new datasets and managed data preprocessing tasks including filtering, grouping, and aggregating.
 
-Determined city-specific occupancy rates during peak travel months, such as June, to optimize resource allocation.
-
-Computed revenue metrics per city and hotel type, tracking performance across different regions and market segments.
-
-Visualized revenue distribution across various booking platforms with pie charts, enabling better marketing strategies.
-
-Integrated new datasets, ensuring continuous analysis by managing data preprocessing tasks such as filtering, grouping, and aggregating.
-
-Leveraged Python for advanced data manipulation and Excel for additional data summarization, enhancing the quality of insights.
+## Technologies Used
+- **Python:** For advanced data manipulation and analysis.
+- **Pandas:** For data handling and analysis.
+- **NumPy:** For numerical calculations.
+- **Matplotlib/Seaborn:** For data visualization.
+- **Excel:** For additional data summarization.
